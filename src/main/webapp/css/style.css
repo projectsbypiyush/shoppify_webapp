@@ -1,0 +1,19 @@
+.custom-bg{
+    background: #536DFE!important;
+
+}
+.admin .card{
+    border: 1px solid black;
+    
+}
+.admin.card:hover{
+    background-color: #e2e2e2;
+}
+.card.product-card:hover{
+    background-color: #e2e2e2!important; 
+    cursor: pointer!important;
+}
+.disount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+}
